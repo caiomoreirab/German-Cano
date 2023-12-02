@@ -1,7 +1,9 @@
 <fable>
 	<page background="bg.png">
-        <agent x = "175" y = "170" text="Bem vindo a fabula">
+        <agent x="175" y="170" text="Bem vindo a fabula">
   
     
   </page>
+
+    
 </fable>
