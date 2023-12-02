@@ -2,6 +2,10 @@
 	<page background="canofeliz.png">
         <agent x="20" y="20" font-size="30" color="yellow" text="ÓLA, VAMOS COMEÇAR A HISTÓRIA DE UM MERO RAPAZ QUE TINHA O SONHO DE SER FELIZ"/>
     </page>
+    <page background="bg.png".png">
+        <agent x="20" y="20" font-size="30" color="yellow" text="ÓLA, VAMOS COMEÇAR A HI"/>
+    </page>
+    
     
     
 
