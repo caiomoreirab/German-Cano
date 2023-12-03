@@ -29,9 +29,9 @@
             width="50" height="50" on-touch="_NEXT_PAGE" />
     </page>
  <page background="canoliberta.png">
-        <agent x="40" y="115" font-size="30" color="black" text="E AGORA VIVE A ESPECTATIVA DE CONSQUISTAR O MUNDO PARA AQUELES QUE SÃO SEUS MAIORES FÃS"/>
-         <agent img="prox.png" x="450" y="140" 
-            width="50" height="50" on-touch="_NEXT_PAGE" />
+        <agent x="40" y="90" font-size="30" color="black" text="E AGORA VIVE A ESPECTATIVA DE CONSQUISTAR O MUNDO PARA AQUELES QUE SÃO SEUS MAIORES FÃS"/>
+         
+        
     </page>
     
     
