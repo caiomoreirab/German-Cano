@@ -13,6 +13,11 @@
          <agent img="prox.png" x="450" y="140" 
             width="50" height="50" on-touch="_NEXT_PAGE" />
     </page>
+    <page background="chegada.png".png">
+        <agent x="40" y="200" font-size="30" color="white" text=" ATÉ QUE SEU DESTINO MUDA E ELE VAI JOGAR EM UM TIME PARA DISPUTAR A SÉRIE A"/>
+         <agent img="prox.png" x="450" y="140" 
+            width="50" height="50" on-touch="_NEXT_PAGE" />
+    </page>
     
     
      
