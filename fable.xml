@@ -5,20 +5,20 @@
     
         
     </page>
-     <page background="bg.png">
+     <page background="bg.png" soundtrack="musica.mp3">
         <agent x="40" y="200" font-size="30" color="white" text="SUA HISTÓRIA NO BRASIL COMEÇA QUANDO ELE CHEGA AO RIO DE JANEIRO!!"/>
         <agent img="prox.png" x="450" y="150" 
             width="50" height="50" on-touch="_NEXT_PAGE" />
         
     </page>
-    <page background="canotriste2.png">
+    <page background="canotriste2.png" soundtrack="musica.mp3">
         
         <agent x="40" y="90" font-size="30" color="snow" text="NO COMEÇO ERA TUDO ESCURO, TREVAS! ELE PRECISAVA FAZER SEU FILHO SORRIR."/>
          <agent img="prox.png" x="450" y="150" 
             width="50" height="50" on-touch="_NEXT_PAGE" />
             width="50" height="50" on-touch="_NEXT_PAGE" />
     </page> 
-    <page background="chegada.png">
+    <page background="chegada.png" soundtrack="musica.mp3">
         <agent x="40" y="115" font-size="30" color="white" text=" ATÉ QUE SEU DESTINO MUDA E ELE VAI JOGAR EM UM TIME PARA DISPUTAR A SÉRIE A!!"/>
          <agent img="prox.png" x="450" y="150" 
             width="50" height="50" on-touch="_NEXT_PAGE" />
