@@ -1,15 +1,17 @@
 <fable>
 	<page background="canofeliz.png" soundtrack="musica.mp3">
         <agent x="20" y="20" font-size="30" color="white" text="ÓLA, VAMOS COMEÇAR A HISTÓRIA DE UM MERO RAPAZ QUE TINHA O SONHO DE SER FELIZ"/>
-        <agent img="prox.png" x="450" y="150" width="50" height="50" on-touch="_NEXT_PA
-            GE"/>
-          
+        <agent img="prox.png" x="450" y="150" width="50" height="50" on-touch="_NEXT_PAGE" />
+    
+        
     </page>
-    <page background="bg.png" soundtrack="musica.mp3">
+     <page background="bg.png" soundtrack="musi
+         ca.mp3">
         <agent x="40" y="200" font-size="30" color="white" text="SUA HISTÓRIA NO BRASIL COMEÇA QUANDO ELE CHEGA AO RIO DE JANEIRO!!"/>
         <agent img="prox.png" x="450" y="150" 
             width="50" height="50" on-touch="_NEXT_PAGE" />
-           </page>
+        
+    </page>
     <page background="canotriste2.png" soundtrack="musica.mp3">
         
         <agent x="40" y="90" font-size="30" color="snow" text="NO COMEÇO ERA TUDO ESCURO, TREVAS! ELE PRECISAVA FAZER SEU FILHO SORRIR."/>
